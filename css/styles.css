@@ -1,0 +1,13 @@
+.jumbotron {
+  text-align: center;
+}
+
+.dogbox {
+  border: 3px solidblue;
+  text-align: center;
+}
+
+.catbox {
+  border: 3px solidblue;
+  text-align: center;
+}
